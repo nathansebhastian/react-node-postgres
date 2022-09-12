@@ -4,6 +4,7 @@
   "description": "Learn how NodeJS and Express can interact with PostgreSQL",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
